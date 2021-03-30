@@ -74,10 +74,10 @@ void searchValidEntries(int a,int b,int c, int d){
 int main()
 {
     populate(2000);
-    //searchValidEntries(80,1,100,10);
-    //searchValidEntries(10,20,40,79);
-    //searchValidEntries(1,90,100,100);
-    //searchValidEntries(40,30,70,60);
-    //searchValidEntries(50,50,70,70);
+    searchValidEntries(80,1,100,10);
+    searchValidEntries(10,20,40,79);
+    searchValidEntries(1,90,100,100);
+    searchValidEntries(40,30,70,60);
+    searchValidEntries(50,50,70,70);
 }
 
