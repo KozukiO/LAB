@@ -30,7 +30,7 @@ void populate(int N)
     int counter = 0;
     int number1,number2;
 
-    //while loop that uses int N to create number fo random pairs
+    //while loop that uses int N to create number of random pairs
  while (counter <= N){
      //While counter is less than or equal to N:
      //Create intitialize number1,number2 to a random number less than 101
